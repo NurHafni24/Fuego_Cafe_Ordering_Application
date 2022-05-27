@@ -6,6 +6,7 @@
 ### Group Member:
 1. Nur Hafni Binti Mohd Nizam (1913844)
 2. Nuridah binti sapee-e (1828074)
+3. Farjana Mammi (1912190)
 
 
 ### Introduction
