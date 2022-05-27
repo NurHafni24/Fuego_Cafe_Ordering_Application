@@ -25,9 +25,10 @@
 ### Mockup
 
 1. Login
-2. Menu
-3. Order
-4. Order List
+2. Table
+3. Menu
+4. Order
 5. Payment
+
 
 ### References
