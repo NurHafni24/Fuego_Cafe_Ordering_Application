@@ -32,10 +32,19 @@
 ### Mockup
 
 1. Login
+
+
 2. Table
+
+
 3. Menu
+
+
 4. Order
+
+
 5. Payment
+
 ![Payment](https://user-images.githubusercontent.com/92074138/170809119-9b7b4f0b-6fd8-4e69-b405-69d3b918e00c.PNG)
 
 
