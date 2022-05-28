@@ -18,7 +18,9 @@
 ### Features and Functionalities
 
 1. Instant Payment Process
-   -  dfdf
+   - Staff need to choose payment method that the customer preferred and complete the transaction smoothly
+   - Have and option to print receipt
+   - Have multichoice payment methods
 
 
 ### Screen Navigation and Components Diagram
