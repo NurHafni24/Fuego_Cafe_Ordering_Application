@@ -17,6 +17,9 @@
 
 ### Features and Functionalities
 
+1. Instant Payment Process
+   -  dfdf
+
 
 ### Screen Navigation and Components Diagram
 
