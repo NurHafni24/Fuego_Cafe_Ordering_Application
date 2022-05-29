@@ -24,7 +24,13 @@
 
 
 ### Screen Navigation and Components Diagram
+1. Screen Navigation
 
+
+
+2. Components Diagram
+
+![Component_Diagram](https://user-images.githubusercontent.com/92074138/170858571-a528afd5-7399-4538-bb95-38bfd5287f8e.PNG)
 
 ### Sequence Diagram
 
