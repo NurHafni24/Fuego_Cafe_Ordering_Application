@@ -27,6 +27,8 @@
 ### Screen Navigation and Components Diagram
 1. Screen Navigation
 
+![navigation](https://user-images.githubusercontent.com/55780049/171028449-96075260-5693-46cf-8d84-d17a09153c10.png)
+
 
 
 2. Components Diagram
