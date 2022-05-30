@@ -19,9 +19,11 @@ Since the digital world and technologies are evolving now more than ever, users 
 
 ### Objectives
 
-1. To assist users in keeping track of their customers' orders.
-2. To help users in arranging and pricing their menus.
-3. Allow users to conduct payment transactions by providing a payment option.
+1. To make the meal ordering procedure easier and more convenient for the user.
+2. To lessen the time spent ordering food.
+3. To assist users in keeping track of their customers' orders.
+4. To help users in arranging and pricing their menus.
+5. Allow users to conduct payment transactions by providing a payment option.
 
 ### Features and Functionalities
 
