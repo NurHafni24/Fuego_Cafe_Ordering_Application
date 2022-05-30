@@ -7,7 +7,7 @@
 1. Nur Hafni Binti Mohd Nizam (1913844)
 2. Nuridah binti sapee-e (1828074)
 3. Farjana Mammi (1912190)
-
+4. Nur Asimah binti Che Mamat (1813212)
 
 ### Introduction
 
@@ -53,6 +53,8 @@
 
 
 4. Order
+
+![Order](https://user-images.githubusercontent.com/55780049/171017868-409a9b1a-3c40-4238-93e8-43e7736ba0e3.png)
 
 
 5. Payment
