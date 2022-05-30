@@ -8,6 +8,7 @@
 2. Nuridah binti sapee-e (1828074)
 3. Farjana Mammi (1912190)
 4. Nur Asimah binti Che Mamat (1813212)
+5. Siti Nurul Fatini binti Azahan (1911182)
 
 ### Introduction
 
@@ -50,6 +51,7 @@
 
 
 3. Menu
+![menu mockup](https://user-images.githubusercontent.com/76712347/171027159-cefbba50-bb04-4877-93de-f3c91f75645b.png)
 
 
 4. Order
