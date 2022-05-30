@@ -32,6 +32,11 @@ Since the digital world and technologies are evolving now more than ever, users 
    - Have and option to print receipt
    - Have multichoice payment methods
 
+2. Table feature
+   - Allow users to enter how many tables they have and to provide no table/table name.
+   - Keep track of how many orders are placed by each table.
+
+
 
 ### Screen Navigation and Components Diagram
 1. Screen Navigation
