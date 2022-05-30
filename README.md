@@ -34,6 +34,9 @@
 
 ### Sequence Diagram
 
+![Fuego Cafe Sequence Diagram drawio](https://user-images.githubusercontent.com/75902424/170938189-707964f9-877c-4694-852b-09bf84ee7395.png)
+
+
 
 ### Mockup
 
