@@ -27,8 +27,6 @@
 ### Screen Navigation and Components Diagram
 1. Screen Navigation
 
-![navigation](https://user-images.githubusercontent.com/55780049/171028449-96075260-5693-46cf-8d84-d17a09153c10.png)
-
 
 
 2. Components Diagram
@@ -39,7 +37,7 @@
 
 ![Fuego Cafe Sequence Diagram drawio](https://user-images.githubusercontent.com/75902424/170938189-707964f9-877c-4694-852b-09bf84ee7395.png)
 
-
+First of all, the staff will log in to the application using his/her email and password and the system will validate the user whether the it matched with the data in database or not. If matched or valid, the staff will redirect to the mian page of ordering system. Else, they need to sign up first. Then, they can start taking order from customer by choosing the available table first. Customer will choose menu and inform their order to the staff/cashier for them to insert in the system. After customer confirm their orders, they will proceed the payment and the order will submit to the kitchen.
 
 ### Mockup
 
