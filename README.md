@@ -63,6 +63,8 @@ First of all, the staff will log in to the application using his/her email and p
 
 2. Table
 
+![table mockup](https://user-images.githubusercontent.com/62057007/171063403-2fe724cf-ffa9-429f-9df7-3d66e621e5a2.PNG)
+
 
 3. Menu
 
