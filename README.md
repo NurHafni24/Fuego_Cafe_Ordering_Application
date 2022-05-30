@@ -12,9 +12,16 @@
 
 ### Introduction
 
+Fuego Cafe ordering is a simple application that allows waiters to move less and use less paper. It is a quick ordering system since it is the same as the pos system, but it also contains a waiter ordering system. The app is only available to café employees. Furthermore, it makes it easier for users who work in cafes to accept orders, particularly servers who must receive orders from the customers and then send the order to the kitchen. Before submitting the order list, the waiter must input customer orders into the app by selecting the item from the menu. These orders are structured in an order that displays a list of orders by customer, and our app assists kitchen staff in not missing an order.
+
+Since the digital world and technologies are evolving now more than ever, users can replace the traditional method of using pen and paper to write the order of customers. Cafe owners save money by not purchasing paper and pencils while collecting orders from customers. They can use a cafe ordering app to rapidly accept orders and pass them on the kitchen staff. During rush hour, the café must serve customers quickly since they have short time for lunch. Waiters must accept orders quickly and convey them to the kitchen. This app would assist servers in quickly accepting orders and submitting them to the kitchen. Using this app would allow waiters to move more quickly while also allowing workers to view the list of orders straight through the app. When a customer wishes to pay, the cashier enters their order into the app and displays the total amount owed. This tool makes it simple to trace the order and payment.
+
 
 ### Objectives
 
+1. To assist users in keeping track of their customers' orders.
+2. To help users in arranging and pricing their menus.
+3. Allow users to conduct payment transactions by providing a payment option.
 
 ### Features and Functionalities
 
