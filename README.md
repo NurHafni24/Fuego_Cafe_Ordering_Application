@@ -42,6 +42,11 @@ Since the digital world and technologies are evolving now more than ever, users 
 1. Screen Navigation
 
 
+![navigation](https://user-images.githubusercontent.com/55780049/171121403-4fb77bf4-a003-4758-9716-62b385d08988.png)
+
+The back button screen navigation allows the user to keeptrack of their previous screen.For example,tapping the back button will bring the user to the previous page that they have interacted with or viewed.
+
+
 
 2. Components Diagram
 
