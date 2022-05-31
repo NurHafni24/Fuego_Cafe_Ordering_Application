@@ -57,7 +57,7 @@ First of all, the staff will log in to the application using his/her email and p
 
 1. Login
 
-![MAD](https://user-images.githubusercontent.com/75902424/170852271-3bacdb1a-58d7-40a7-9e91-8b43c5281711.JPG)
+![MAD](https://user-images.githubusercontent.com/75902424/171082263-3fa3c743-aa6f-4c37-bbd2-f65dbab06111.JPG)
 
 
 
