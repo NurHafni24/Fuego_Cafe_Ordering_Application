@@ -52,6 +52,8 @@ The back button screen navigation allows the user to keeptrack of their previous
 
 ![Component_Diagram](https://user-images.githubusercontent.com/92074138/170858571-a528afd5-7399-4538-bb95-38bfd5287f8e.PNG)
 
+Firstly, the staff need to sign Up and Login first by providing their information/data, so that the interface for order processor can begin. Next, table interface is required to proceed with customer order placement, since the staff will need to choose an available table to insert the order. Besides that, menu interfaces were provided where the menu details were sent to proceed with payment processor in order to complete the payment transaction together with overriding the order details.
+
 ### Sequence Diagram
 
 ![Fuego Cafe Sequence Diagram drawio](https://user-images.githubusercontent.com/75902424/170938189-707964f9-877c-4694-852b-09bf84ee7395.png)
