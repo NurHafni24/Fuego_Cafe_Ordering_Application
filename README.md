@@ -36,6 +36,10 @@ Since the digital world and technologies are evolving now more than ever, users 
    - Allow users to enter how many tables they have and to provide no table/table name.
    - Keep track of how many orders are placed by each table.
 
+3. Login feature
+   - New user need to sign up first. 
+   - Allow the users to login to the system any time.  
+
 
 
 ### Screen Navigation and Components Diagram
