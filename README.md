@@ -40,6 +40,10 @@ Since the digital world and technologies are evolving now more than ever, users 
    - New user need to sign up first. 
    - Allow the users to login to the system any time.  
 
+4. Menu feature
+   - User click on the desired food/drinks chosen by the customer and add it into the cart.
+   - User can add new menu to the list based on category (food/drinks).
+
 
 
 ### Screen Navigation and Components Diagram
@@ -60,7 +64,7 @@ Firstly, the staff need to sign Up and Login first by providing their informatio
 
 ### Sequence Diagram
 
-![Fuego Cafe Sequence Diagram drawio](https://user-images.githubusercontent.com/75902424/170938189-707964f9-877c-4694-852b-09bf84ee7395.png)
+![Fuego Cafe Sequence Diagram drawio (1)](https://user-images.githubusercontent.com/76712347/171533718-923c380a-140c-462f-bf3d-35e6623783b6.png)
 
 First of all, the staff will log in to the application using his/her email and password and the system will validate the user whether the it matched with the data in database or not. If matched or valid, the staff will redirect to the mian page of ordering system. Else, they need to sign up first. Then, they can start taking order from customer by choosing the available table first. Customer will choose menu and inform their order to the staff/cashier for them to insert in the system. After customer confirm their orders, they will proceed the payment and the order will submit to the kitchen.
 
@@ -78,7 +82,7 @@ First of all, the staff will log in to the application using his/her email and p
 
 3. Menu
 
-![menu mockup](https://user-images.githubusercontent.com/76712347/171027159-cefbba50-bb04-4877-93de-f3c91f75645b.png)
+![menu mockup](https://user-images.githubusercontent.com/76712347/171533787-02532267-7225-49a5-ad61-b1c6db1b45d0.png)
 
 
 4. Order
