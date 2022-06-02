@@ -45,8 +45,8 @@ Since the digital world and technologies are evolving now more than ever, users 
    - User can add new menu to the list based on category (food/drinks).
 
 5. Order Features
-   -Allow the user to confirm their order by listing all their selected food/drinks
-   -Calculated the total amount to be paid by the user for their orders.
+   - Allow the user to confirm their order by listing all their selected food/drinks
+   - Calculated the total amount to be paid by the user for their orders.
 
 
 ### Screen Navigation and Components Diagram
