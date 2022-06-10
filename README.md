@@ -95,7 +95,7 @@ First of all, the staff will log in to the application using his/her email and p
 
 5. Payment
 
-![Payment 2](https://user-images.githubusercontent.com/92074138/172972336-1e588e67-e770-43e2-aee8-b626984a3fb6.PNG)
+![Payment 2](https://user-images.githubusercontent.com/92074138/172972615-eb04b344-354f-44c1-a55f-dce13687b2b2.PNG)
 
 
 ### References
