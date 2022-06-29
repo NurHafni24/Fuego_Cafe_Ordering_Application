@@ -1,5 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
+import 'dart:ffi';
+
+void main() {
+  List <int> MenuList[];
+  MenuList.foreach((element){
+    print(element);
+  });
+
+}
 
 class MenuItem {
   final String id;
@@ -14,6 +23,10 @@ class MenuItem {
     required this.name
 });}
 
+int getQuantity(){
+  return
+}
+
   List<Map<String, Object>> get totalItemsPrice{
     return List.generate(1, (index) {
       var totalPriceSum = 0.0;
@@ -25,11 +38,6 @@ class MenuItem {
       };
     }).menuList();
   }
-  double totalPriceSum(int menuListId) {
-  return ItemsPrice.where((item) => item.menuListId == menuListId)
-                    .fold(0.0, (sum, item) => sum + item ['Total']);
-  }
-
 
 
 
