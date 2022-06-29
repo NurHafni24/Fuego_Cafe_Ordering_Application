@@ -1,0 +1,46 @@
+name: fuego_cafe
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_core: ^1.18.0
+  firebase_auth: ^3.3.20
+  email_validator: ^2.0.1
+  badges: ^2.0.3
+  url_launcher: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/cash2.png
+    - assets/payhalal.jpg
+    - assets/paypal.png
+    - assets/ewallet.png
+    - assets/tng.png   
+    - assets/americano.jpg
+    - assets/cheese.jpg
+    - assets/chickenchop.jpg
+    - assets/choc.jpg
+    - assets/frappe.jpg
+    - assets/hotchoco.jpg
+    - assets/lasagna.jpg
+    - assets/latte.jpg
+    - assets/nachos.jpg
+    - assets/orange.jpg
+    - assets/oreo.jpg
+    - assets/spaghetti.jpg
