@@ -1,14 +1,10 @@
+import 'dart:ffi';
+
 import 'package:flutter/material.dart';
 import 'package:fuego_cafe/payment.dart';
 import 'package:fuego_cafe/table.dart';
 // import 'dart:ffi';
 
-// void main() {
-//   List <int> MenuList[];
-//   MenuList.forEach((element) {
-//     print(element);
-//   });
-// }
 
 class MenuItem {
   final String id;
@@ -16,12 +12,11 @@ class MenuItem {
   final int price;
   final String name;
 
-  const MenuItem({
-    required this.id,
-    required this.image,
-    required this.price,
-    required this.name
-  });
+  const MenuItem(
+      {required this.id,
+      required this.image,
+      required this.price,
+      required this.name});
 }
 
 // int getQuantity(){
@@ -48,19 +43,41 @@ class MenuItem {
 //       .fold(0.0, (sum, item) => sum + item['Total']);
 // }
 
+var sum = 0;
+// var price = [1, 2, 3];
+
 class Total extends StatelessWidget {
+
+
+mainTotal() {
+  // int sum = 0;
+  // int price = [1, 2, 3];
+var price = [1, 2, 3];
+
+  for (int i = 0; i < 3; i++) {
+    sum += price[i];
+  }
+  // Total(sum);
+  // Total();
+  // print("Sum : ${sum}");
+}
+
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+        backgroundColor: Color(0xFFEEEEEE),
         appBar: AppBar(
-          title: Text('Confirm Order'),
+          title: const Text('Confirm Order'),
           centerTitle: true,
+          backgroundColor: Color(0xFFEEEEEE),
         ),
         body: Center(
             child: Column(
                 mainAxisAlignment: MainAxisAlignment.spaceAround,
                 mainAxisSize: MainAxisSize.min,
                 children: [
+              sum,
               ElevatedButton(
                 onPressed: () {
                   Navigator.push(
@@ -74,12 +91,10 @@ class Total extends StatelessWidget {
                   padding: EdgeInsets.symmetric(horizontal: 60, vertical: 15),
                 ),
               ),
-              
-                const SizedBox(
-                  //To have space between 'Pay' button and 'Total paid'
-                  height: 20,
-                ),              
-              
+              const SizedBox(
+                //To have space between 'Pay' button and 'Total paid'
+                height: 20,
+              ),
               ElevatedButton(
                 onPressed: () {
                   Navigator.push(
@@ -95,9 +110,6 @@ class Total extends StatelessWidget {
                   padding: EdgeInsets.symmetric(horizontal: 65, vertical: 15),
                 ),
               ),
-            ]
-          )
-        )
-      );
+            ])));
   }
 }
